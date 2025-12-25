@@ -1,0 +1,351 @@
+Customer_ID,Age,Region,Data_Usage_GB,Usage_Type,Time_of_Day
+CUST1000,56,West,11.49,Downloads,Afternoon
+CUST1001,46,South,18.63,Downloads,Night
+CUST1002,32,North,18.43,Video Calls,Afternoon
+CUST1003,25,West,17.21,Video Calls,Evening
+CUST1004,38,Central,16.28,Browsing,Afternoon
+CUST1005,56,West,18.29,Streaming,Morning
+CUST1006,36,North,28.36,Video Calls,Evening
+CUST1007,40,West,29.94,Video Calls,Night
+CUST1008,28,East,24.98,Gaming,Morning
+CUST1009,28,West,20.74,Downloads,Morning
+CUST1010,41,South,37.75,Streaming,Night
+CUST1011,53,South,24.08,Gaming,Night
+CUST1012,57,East,34.37,Browsing,Afternoon
+CUST1013,41,North,19.31,Browsing,Evening
+CUST1014,20,South,29.14,Video Calls,Night
+CUST1015,39,Central,38.42,Video Calls,Night
+CUST1016,19,South,1.09,Browsing,Evening
+CUST1017,41,South,18.45,Video Calls,Night
+CUST1018,47,North,30.94,Streaming,Night
+CUST1019,55,West,37.13,Video Calls,Afternoon
+CUST1020,19,South,27.03,Downloads,Morning
+CUST1021,38,East,25.5,Video Calls,Morning
+CUST1022,50,West,41.11,Gaming,Morning
+CUST1023,29,Central,37.74,Streaming,Morning
+CUST1024,39,North,16.31,Gaming,Night
+CUST1025,42,Central,26.16,Gaming,Evening
+CUST1026,44,West,28.6,Downloads,Evening
+CUST1027,59,West,42.19,Streaming,Afternoon
+CUST1028,45,West,33.66,Streaming,Afternoon
+CUST1029,33,Central,23.96,Streaming,Night
+CUST1030,32,West,27.2,Streaming,Evening
+CUST1031,20,Central,6.16,Streaming,Evening
+CUST1032,54,West,34.69,Downloads,Morning
+CUST1033,24,East,31.46,Video Calls,Night
+CUST1034,38,West,37.12,Gaming,Night
+CUST1035,26,Central,23.56,Streaming,Morning
+CUST1036,56,South,26.28,Video Calls,Night
+CUST1037,35,West,20.19,Video Calls,Night
+CUST1038,21,South,13.52,Gaming,Afternoon
+CUST1039,42,East,18.98,Downloads,Evening
+CUST1040,31,North,6.81,Browsing,Night
+CUST1041,26,East,34.15,Browsing,Afternoon
+CUST1042,43,West,3.25,Video Calls,Evening
+CUST1043,19,South,45.32,Gaming,Morning
+CUST1044,37,South,7.36,Browsing,Afternoon
+CUST1045,45,Central,40.0,Video Calls,Afternoon
+CUST1046,24,South,15.92,Downloads,Evening
+CUST1047,25,Central,30.61,Browsing,Morning
+CUST1048,52,North,17.48,Video Calls,Afternoon
+CUST1049,31,West,41.74,Video Calls,Night
+CUST1050,34,Central,25.44,Streaming,Night
+CUST1051,53,North,35.74,Downloads,Night
+CUST1052,57,South,25.76,Streaming,Morning
+CUST1053,21,South,28.53,Gaming,Afternoon
+CUST1054,19,North,31.16,Streaming,Night
+CUST1055,23,South,19.71,Streaming,Morning
+CUST1056,59,North,12.2,Browsing,Night
+CUST1057,21,Central,11.98,Video Calls,Evening
+CUST1058,46,Central,25.51,Downloads,Afternoon
+CUST1059,35,North,20.11,Streaming,Afternoon
+CUST1060,43,Central,3.54,Downloads,Morning
+CUST1061,51,Central,30.13,Streaming,Morning
+CUST1062,27,Central,12.82,Gaming,Afternoon
+CUST1063,53,East,13.4,Streaming,Night
+CUST1064,31,West,24.58,Browsing,Night
+CUST1065,48,South,16.0,Video Calls,Evening
+CUST1066,32,East,26.23,Gaming,Night
+CUST1067,25,Central,44.73,Streaming,Morning
+CUST1068,31,North,21.21,Downloads,Morning
+CUST1069,40,Central,14.4,Gaming,Night
+CUST1070,57,West,26.82,Gaming,Morning
+CUST1071,38,Central,17.25,Streaming,Afternoon
+CUST1072,33,North,25.24,Gaming,Afternoon
+CUST1073,35,West,28.16,Downloads,Night
+CUST1074,41,Central,24.65,Gaming,Afternoon
+CUST1075,43,West,25.57,Downloads,Afternoon
+CUST1076,42,South,26.92,Streaming,Evening
+CUST1077,58,South,40.97,Video Calls,Evening
+CUST1078,46,Central,22.47,Gaming,Afternoon
+CUST1079,32,West,26.27,Video Calls,Night
+CUST1080,18,North,33.67,Downloads,Evening
+CUST1081,42,Central,29.71,Gaming,Morning
+CUST1082,24,South,21.42,Browsing,Morning
+CUST1083,26,South,34.02,Video Calls,Morning
+CUST1084,41,Central,16.29,Gaming,Night
+CUST1085,18,West,22.73,Video Calls,Afternoon
+CUST1086,25,South,17.29,Gaming,Morning
+CUST1087,41,West,30.76,Streaming,Night
+CUST1088,28,South,36.9,Video Calls,Evening
+CUST1089,34,South,27.23,Browsing,Afternoon
+CUST1090,25,East,25.75,Browsing,Evening
+CUST1091,52,South,16.25,Downloads,Night
+CUST1092,52,North,17.97,Gaming,Morning
+CUST1093,50,Central,13.07,Video Calls,Morning
+CUST1094,22,Central,3.23,Downloads,Night
+CUST1095,59,West,21.09,Video Calls,Morning
+CUST1096,56,South,22.02,Gaming,Afternoon
+CUST1097,58,North,46.73,Browsing,Night
+CUST1098,45,West,40.63,Streaming,Evening
+CUST1099,24,East,30.56,Browsing,Night
+CUST1100,26,West,45.84,Downloads,Afternoon
+CUST1101,25,West,38.91,Streaming,Afternoon
+CUST1102,29,South,4.92,Downloads,Night
+CUST1103,51,East,35.67,Gaming,Night
+CUST1104,50,West,32.11,Streaming,Morning
+CUST1105,40,North,22.11,Downloads,Afternoon
+CUST1106,41,North,10.85,Gaming,Night
+CUST1107,54,Central,30.95,Browsing,Night
+CUST1108,52,East,4.21,Gaming,Afternoon
+CUST1109,57,East,24.79,Video Calls,Night
+CUST1110,39,Central,18.83,Gaming,Morning
+CUST1111,44,West,12.41,Gaming,Afternoon
+CUST1112,52,East,36.89,Video Calls,Morning
+CUST1113,18,North,24.59,Downloads,Morning
+CUST1114,52,North,26.74,Downloads,Morning
+CUST1115,54,South,34.08,Gaming,Morning
+CUST1116,31,East,24.91,Video Calls,Afternoon
+CUST1117,20,West,29.51,Video Calls,Morning
+CUST1118,18,Central,33.16,Browsing,Morning
+CUST1119,22,Central,30.67,Downloads,Night
+CUST1120,43,West,27.86,Streaming,Afternoon
+CUST1121,31,South,42.83,Downloads,Afternoon
+CUST1122,56,Central,37.42,Downloads,Evening
+CUST1123,44,East,24.14,Browsing,Afternoon
+CUST1124,26,South,15.9,Streaming,Afternoon
+CUST1125,32,East,31.39,Browsing,Evening
+CUST1126,32,North,27.16,Streaming,Afternoon
+CUST1127,43,South,42.09,Gaming,Afternoon
+CUST1128,59,Central,34.87,Streaming,Afternoon
+CUST1129,30,South,32.64,Browsing,Afternoon
+CUST1130,49,South,25.13,Downloads,Evening
+CUST1131,56,South,16.24,Streaming,Afternoon
+CUST1132,49,South,23.02,Streaming,Afternoon
+CUST1133,21,East,29.77,Video Calls,Evening
+CUST1134,47,North,7.7,Downloads,Night
+CUST1135,54,West,37.42,Gaming,Morning
+CUST1136,40,South,45.67,Browsing,Night
+CUST1137,56,Central,5.55,Gaming,Evening
+CUST1138,32,South,11.0,Downloads,Morning
+CUST1139,46,Central,27.3,Streaming,Evening
+CUST1140,53,East,19.17,Streaming,Evening
+CUST1141,30,Central,27.61,Downloads,Afternoon
+CUST1142,49,West,24.28,Streaming,Morning
+CUST1143,24,North,14.76,Streaming,Afternoon
+CUST1144,39,Central,37.88,Streaming,Morning
+CUST1145,45,Central,29.65,Browsing,Evening
+CUST1146,19,North,19.4,Browsing,Evening
+CUST1147,59,West,40.05,Video Calls,Night
+CUST1148,23,South,19.92,Gaming,Morning
+CUST1149,45,Central,12.58,Downloads,Afternoon
+CUST1150,45,North,26.84,Downloads,Night
+CUST1151,37,East,28.53,Downloads,Night
+CUST1152,47,North,30.32,Video Calls,Night
+CUST1153,28,East,31.96,Browsing,Afternoon
+CUST1154,45,West,30.16,Video Calls,Night
+CUST1155,42,South,29.75,Downloads,Afternoon
+CUST1156,56,North,19.26,Gaming,Night
+CUST1157,50,Central,18.19,Streaming,Afternoon
+CUST1158,18,West,32.42,Browsing,Evening
+CUST1159,44,North,27.43,Browsing,Evening
+CUST1160,30,Central,33.2,Video Calls,Evening
+CUST1161,58,North,7.93,Browsing,Evening
+CUST1162,20,East,19.99,Downloads,Evening
+CUST1163,56,North,44.07,Downloads,Night
+CUST1164,23,North,30.53,Video Calls,Night
+CUST1165,25,North,27.96,Downloads,Night
+CUST1166,44,West,32.08,Gaming,Afternoon
+CUST1167,26,North,47.08,Video Calls,Afternoon
+CUST1168,54,Central,44.98,Gaming,Afternoon
+CUST1169,50,East,9.2,Streaming,Afternoon
+CUST1170,59,East,12.89,Gaming,Evening
+CUST1171,41,North,8.87,Streaming,Evening
+CUST1172,32,West,17.53,Streaming,Evening
+CUST1173,49,West,25.55,Gaming,Morning
+CUST1174,49,Central,27.42,Video Calls,Night
+CUST1175,41,North,9.7,Downloads,Afternoon
+CUST1176,58,East,6.33,Downloads,Afternoon
+CUST1177,29,West,17.35,Streaming,Evening
+CUST1178,56,North,34.16,Streaming,Afternoon
+CUST1179,19,West,35.9,Video Calls,Afternoon
+CUST1180,20,West,42.06,Browsing,Night
+CUST1181,54,East,24.68,Gaming,Evening
+CUST1182,34,South,33.28,Streaming,Night
+CUST1183,19,Central,35.1,Downloads,Morning
+CUST1184,19,Central,20.03,Video Calls,Morning
+CUST1185,45,East,28.88,Gaming,Morning
+CUST1186,40,West,31.59,Video Calls,Evening
+CUST1187,54,North,15.91,Gaming,Afternoon
+CUST1188,49,West,41.42,Gaming,Evening
+CUST1189,50,East,24.61,Streaming,Evening
+CUST1190,18,Central,25.87,Video Calls,Afternoon
+CUST1191,36,West,15.53,Video Calls,Night
+CUST1192,19,Central,17.21,Downloads,Morning
+CUST1193,43,North,3.03,Downloads,Night
+CUST1194,49,Central,25.55,Streaming,Morning
+CUST1195,23,Central,50.06,Streaming,Evening
+CUST1196,49,South,14.81,Browsing,Morning
+CUST1197,21,South,54.76,Downloads,Evening
+CUST1198,28,South,39.14,Gaming,Night
+CUST1199,34,Central,20.26,Video Calls,Evening
+CUST1200,55,East,25.27,Streaming,Night
+CUST1201,41,Central,23.65,Video Calls,Afternoon
+CUST1202,22,East,42.06,Video Calls,Afternoon
+CUST1203,51,East,30.17,Browsing,Afternoon
+CUST1204,23,South,36.82,Downloads,Evening
+CUST1205,39,West,28.58,Streaming,Afternoon
+CUST1206,28,North,23.88,Video Calls,Morning
+CUST1207,33,South,28.26,Streaming,Night
+CUST1208,50,South,20.93,Gaming,Night
+CUST1209,26,West,10.48,Browsing,Morning
+CUST1210,23,North,33.14,Gaming,Evening
+CUST1211,33,Central,9.99,Streaming,Evening
+CUST1212,46,Central,22.31,Streaming,Night
+CUST1213,20,South,20.6,Downloads,Afternoon
+CUST1214,37,North,31.43,Video Calls,Evening
+CUST1215,53,South,40.65,Video Calls,Evening
+CUST1216,36,East,37.05,Gaming,Morning
+CUST1217,43,South,31.72,Browsing,Morning
+CUST1218,20,South,18.7,Video Calls,Afternoon
+CUST1219,36,Central,23.17,Downloads,Evening
+CUST1220,37,Central,21.71,Gaming,Evening
+CUST1221,49,Central,20.3,Gaming,Morning
+CUST1222,24,East,20.98,Downloads,Evening
+CUST1223,58,Central,20.71,Browsing,Night
+CUST1224,50,North,20.27,Downloads,Morning
+CUST1225,57,West,34.52,Browsing,Afternoon
+CUST1226,56,North,14.45,Downloads,Morning
+CUST1227,35,North,17.71,Downloads,Evening
+CUST1228,57,Central,9.17,Streaming,Afternoon
+CUST1229,18,West,39.15,Gaming,Morning
+CUST1230,28,West,17.03,Downloads,Night
+CUST1231,45,West,31.61,Downloads,Night
+CUST1232,42,East,29.75,Video Calls,Morning
+CUST1233,40,Central,38.19,Gaming,Night
+CUST1234,48,West,22.9,Video Calls,Night
+CUST1235,47,East,15.52,Gaming,Night
+CUST1236,59,South,9.44,Video Calls,Afternoon
+CUST1237,52,South,2.85,Downloads,Night
+CUST1238,24,East,26.61,Downloads,Night
+CUST1239,33,East,32.75,Streaming,Night
+CUST1240,43,Central,29.72,Video Calls,Afternoon
+CUST1241,19,Central,9.7,Browsing,Morning
+CUST1242,18,South,35.39,Streaming,Evening
+CUST1243,29,West,18.02,Video Calls,Night
+CUST1244,22,South,15.93,Video Calls,Morning
+CUST1245,54,West,17.79,Streaming,Night
+CUST1246,49,West,25.78,Downloads,Afternoon
+CUST1247,26,Central,10.15,Video Calls,Morning
+CUST1248,58,North,24.63,Downloads,Afternoon
+CUST1249,52,North,29.29,Streaming,Night
+CUST1250,36,East,36.07,Downloads,Night
+CUST1251,33,Central,26.76,Gaming,Afternoon
+CUST1252,20,West,11.6,Browsing,Evening
+CUST1253,37,North,26.49,Video Calls,Afternoon
+CUST1254,41,West,14.4,Browsing,Night
+CUST1255,50,North,13.82,Downloads,Afternoon
+CUST1256,41,North,11.37,Video Calls,Evening
+CUST1257,28,North,5.89,Downloads,Afternoon
+CUST1258,25,Central,19.33,Gaming,Evening
+CUST1259,53,South,36.29,Streaming,Evening
+CUST1260,55,West,47.56,Video Calls,Afternoon
+CUST1261,57,Central,19.26,Gaming,Afternoon
+CUST1262,37,Central,35.86,Gaming,Morning
+CUST1263,52,Central,21.05,Video Calls,Night
+CUST1264,42,Central,8.49,Downloads,Evening
+CUST1265,52,Central,32.01,Gaming,Morning
+CUST1266,42,East,27.35,Browsing,Afternoon
+CUST1267,46,West,43.18,Gaming,Night
+CUST1268,35,Central,9.65,Downloads,Morning
+CUST1269,35,West,52.96,Downloads,Evening
+CUST1270,19,East,40.92,Browsing,Morning
+CUST1271,52,East,24.82,Gaming,Evening
+CUST1272,33,West,22.01,Downloads,Afternoon
+CUST1273,58,North,17.84,Video Calls,Night
+CUST1274,53,South,26.1,Streaming,Night
+CUST1275,50,North,23.16,Streaming,Night
+CUST1276,21,North,30.14,Streaming,Afternoon
+CUST1277,50,North,22.06,Gaming,Evening
+CUST1278,31,Central,39.15,Browsing,Afternoon
+CUST1279,38,East,26.25,Downloads,Night
+CUST1280,37,North,22.43,Video Calls,Afternoon
+CUST1281,25,East,35.24,Video Calls,Afternoon
+CUST1282,24,West,8.77,Gaming,Afternoon
+CUST1283,20,South,28.41,Streaming,Evening
+CUST1284,34,West,25.26,Gaming,Morning
+CUST1285,50,West,10.89,Browsing,Morning
+CUST1286,29,Central,7.91,Browsing,Afternoon
+CUST1287,39,South,35.1,Downloads,Morning
+CUST1288,39,West,34.63,Downloads,Morning
+CUST1289,47,West,26.73,Browsing,Afternoon
+CUST1290,55,South,42.17,Browsing,Afternoon
+CUST1291,55,South,29.41,Browsing,Night
+CUST1292,25,West,37.5,Gaming,Morning
+CUST1293,44,South,29.2,Browsing,Evening
+CUST1294,44,West,22.24,Video Calls,Afternoon
+CUST1295,51,West,14.42,Streaming,Night
+CUST1296,38,Central,18.97,Browsing,Evening
+CUST1297,47,North,22.43,Streaming,Morning
+CUST1298,50,West,38.63,Gaming,Night
+CUST1299,45,East,32.7,Streaming,Afternoon
+CUST1300,50,North,28.3,Gaming,Evening
+CUST1301,22,North,33.7,Video Calls,Afternoon
+CUST1302,36,North,30.27,Gaming,Morning
+CUST1303,21,Central,27.62,Gaming,Evening
+CUST1304,52,West,10.01,Downloads,Morning
+CUST1305,34,Central,36.39,Browsing,Morning
+CUST1306,45,West,20.41,Browsing,Night
+CUST1307,47,Central,35.89,Video Calls,Afternoon
+CUST1308,46,Central,36.85,Video Calls,Evening
+CUST1309,23,East,18.3,Browsing,Morning
+CUST1310,52,Central,34.5,Downloads,Morning
+CUST1311,58,South,21.39,Browsing,Evening
+CUST1312,54,East,21.45,Downloads,Morning
+CUST1313,41,Central,27.57,Video Calls,Night
+CUST1314,46,North,27.84,Streaming,Night
+CUST1315,48,South,25.39,Video Calls,Night
+CUST1316,52,South,11.66,Video Calls,Night
+CUST1317,50,South,23.79,Gaming,Morning
+CUST1318,38,East,47.78,Gaming,Evening
+CUST1319,49,Central,2.84,Gaming,Evening
+CUST1320,40,Central,33.7,Gaming,Evening
+CUST1321,50,North,35.57,Downloads,Evening
+CUST1322,20,North,11.42,Browsing,Afternoon
+CUST1323,35,South,20.31,Streaming,Evening
+CUST1324,42,North,14.99,Video Calls,Afternoon
+CUST1325,59,East,43.54,Downloads,Afternoon
+CUST1326,48,Central,36.03,Streaming,Night
+CUST1327,20,South,36.51,Downloads,Afternoon
+CUST1328,57,North,26.21,Downloads,Morning
+CUST1329,41,East,38.12,Video Calls,Afternoon
+CUST1330,49,East,24.92,Browsing,Night
+CUST1331,39,North,38.59,Gaming,Afternoon
+CUST1332,40,Central,23.51,Browsing,Morning
+CUST1333,19,North,18.21,Video Calls,Morning
+CUST1334,44,South,43.11,Video Calls,Morning
+CUST1335,59,North,24.79,Video Calls,Night
+CUST1336,19,East,16.01,Streaming,Night
+CUST1337,43,North,15.9,Browsing,Evening
+CUST1338,34,Central,15.93,Browsing,Night
+CUST1339,57,West,33.44,Downloads,Morning
+CUST1340,50,North,24.01,Downloads,Morning
+CUST1341,26,Central,47.98,Downloads,Night
+CUST1342,56,Central,36.86,Video Calls,Afternoon
+CUST1343,46,East,27.57,Browsing,Night
+CUST1344,59,Central,39.04,Video Calls,Night
+CUST1345,43,Central,20.04,Streaming,Morning
+CUST1346,52,Central,6.45,Downloads,Evening
+CUST1347,42,Central,15.1,Video Calls,Morning
+CUST1348,41,South,26.47,Video Calls,Evening
+CUST1349,30,South,22.77,Streaming,Morning
